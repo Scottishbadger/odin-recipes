@@ -1,0 +1,25 @@
+
+
+
+* {
+    background-color: lightblue;
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-size: 24px;   
+}
+
+img {
+    height: auto;
+    width: 400px;   
+}
+
+h1 {
+    background-color: orange;
+    text-align: center;
+    font-size: 35px;}
+    
+
+li {
+    font-size: 25px;
+    color: red;
+
+}
